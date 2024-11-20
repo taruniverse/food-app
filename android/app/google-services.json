@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047192529538",
+    "project_id": "foodsqureuser",
+    "storage_bucket": "foodsqureuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047192529538:android:434f49e5711ca33061e29b",
+        "android_client_info": {
+          "package_name": "com.foodsqure.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7WSNogWWw3aCY1SjDbzb2Z0UtoajTnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047192529538:android:8b6f351a243b30be61e29b",
+        "android_client_info": {
+          "package_name": "com.foodsqure.vendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7WSNogWWw3aCY1SjDbzb2Z0UtoajTnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
